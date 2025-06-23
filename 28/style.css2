@@ -1,0 +1,8 @@
+#nav_div{
+    margin-bottom: 3%;
+    padding: 10px;
+    background-color: #a3a3a3;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}

@@ -1,0 +1,27 @@
+#nav_div{
+    width: 100%;
+    padding: 10px;
+    background-color: #a3a3a3;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+nav ul :hover{
+    background-color: black;
+    color: white;
+}
+.div_home{
+    background-color:#c1c1c1;
+    text-align: center;
+}
+.hometown{
+    text-align: center;
+}
+img{
+    width: 20%;
+}
+.anime_div{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
